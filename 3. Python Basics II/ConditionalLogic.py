@@ -9,14 +9,15 @@ elif is_licenced:
     print('You can drive now!')
 else:
     print('You are not of age!')
-
+You are old enough to drive!
 print('ok ok')
 print()
-
+ok ok
 # improved version
 if is_old and is_licenced:
     print('You are old enough to drive, and you have a licence!')
 else:
     print('You are not of age!')
-
+You are old enough to drive, and you have a licence!
 print('ok ok')
+ok ok
