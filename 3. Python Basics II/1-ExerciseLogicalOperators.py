@@ -15,3 +15,4 @@ if is_magician and not is_expert:
 # Check if not a magician: "You need magic powers"
 if not is_magician:
     print("You need magic powers.")
+You need magic powers.
