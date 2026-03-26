@@ -8,3 +8,4 @@ for item in my_list:
     counter += item
 
 print(counter)
+55
