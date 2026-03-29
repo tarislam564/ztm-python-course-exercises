@@ -10,7 +10,9 @@ say_hello('Nitesh', ':)')
 say_hello('Emily', ':p')
 say_hello('Dah', ':\'(')
 print()
-
+helllooooo Nitesh :)
+helllooooo Emily :p
+helllooooo Dah :'(
 
 # Default Parameters
 def say_hello(name='Darth Vader', emoji='>:('):
@@ -21,3 +23,6 @@ def say_hello(name='Darth Vader', emoji='>:('):
 say_hello(emoji=':)', name='Bibi')
 say_hello()
 say_hello('Timmy')
+helllooooo Bibi :)
+helllooooo Darth Vader >:(
+helllooooo Timmy >:(
