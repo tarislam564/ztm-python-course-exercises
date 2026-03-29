@@ -7,7 +7,7 @@ def sum1(num1, num2):
 total = sum1(10, 5)
 print(sum1(10, total))
 print()
-
+20
 
 def sum2(num1, num2):
     def another_func(n1, n2):
@@ -17,3 +17,4 @@ def sum2(num1, num2):
 
 total = sum2(10, 20)
 print(total)
+30
