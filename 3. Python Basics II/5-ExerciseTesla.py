@@ -10,7 +10,12 @@ def checkDriverAge():
     elif int(age) == 18:
         print("Congratulations on your first year of driving. Enjoy the ride!")
 checkDriverAge()
-
+What is your age?: 17
+Sorry, you are too young to drive this car. Powering off
+What is your age?: 18
+Congratulations on your first year of driving. Enjoy the ride!
+What is your age?: 21
+Powering On. Enjoy the ride!
 #2 Instead of using the input(). Now, make the checkDriverAge() function accept an argument of age, so that if you enter:
 #checkDriverAge(92);
 #it returns "Powering On. Enjoy the ride!"
@@ -23,3 +28,6 @@ def checkDriverAge(age=0):
     elif int(age) == 18:
         print("Congratulations on your first year of driving. Enjoy the ride!")
 checkDriverAge()
+Sorry, you are too young to drive this car. Powering off
+Powering On. Enjoy the ride!
+Congratulations on your first year of driving. Enjoy the ride!
