@@ -8,3 +8,5 @@ def is_odd(num):
 
 print(is_odd(5))
 print(is_odd(10))
+True
+False
