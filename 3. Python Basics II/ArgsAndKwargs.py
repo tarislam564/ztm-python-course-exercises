@@ -10,5 +10,6 @@ def super_func(name, *args, i='hi', **kwargs):
 
 
 print(super_func('nitesh', 1, 2, 3, 4, 5, i='hello', num1=5, num2=10))
-
+hello nitesh
+30
 # Rule: params, *args, default parameters, **kwargs
