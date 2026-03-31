@@ -8,7 +8,8 @@ def outer():
     inner()
     print("outer:", x)
 outer()
-
+inner: nonlocal
+outer: nonlocal
 #1 - start with local
 #2 - Parent local?
 #3 - global
