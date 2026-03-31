@@ -13,5 +13,8 @@ def parent():
 
 
 print(a)
+1
 print(parent())
+5
 print(sum)
+<built-in function sum>
