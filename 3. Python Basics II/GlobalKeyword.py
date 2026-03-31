@@ -12,3 +12,4 @@ def count():
 count()
 count()
 print(count())
+3
